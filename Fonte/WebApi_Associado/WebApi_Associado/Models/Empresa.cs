@@ -1,5 +1,8 @@
-﻿namespace WebApi_Associado.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace WebApi_Associado.Models
 {
+    [Table("Empresa")]
     public class Empresa
     {
         public int Id { get; set; } 
