@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\data\\webapi_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\data\\webapi_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\webapi_associado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\webapi_associado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\models\\associado_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\models\\associado_empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\models\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\models\\associado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\models\\associado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApi_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Data\\WebApi_DbContext.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Data\\WebApi_DbContext.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Data\\WebApi_DbContext.cs",
+              "RelativeToolTip": "WebApi_Associado\\Data\\WebApi_DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:03:18.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Associado_Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "RelativeToolTip": "WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:55:55.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Empresa.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Models\\Empresa.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Empresa.cs",
+              "RelativeToolTip": "WebApi_Associado\\Models\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:51:56.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Associado.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Models\\Associado.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado.cs",
+              "RelativeToolTip": "WebApi_Associado\\Models\\Associado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:45:41.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApi_Associado",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\WebApi_Associado.csproj",
+              "RelativeDocumentMoniker": "WebApi_Associado\\WebApi_Associado.csproj",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\WebApi_Associado.csproj",
+              "RelativeToolTip": "WebApi_Associado\\WebApi_Associado.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T02:41:02.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

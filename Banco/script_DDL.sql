@@ -1,5 +1,5 @@
 -- Criação das tabelas
-use s4e; 
+use AssociadoEmpresa; 
 
 SET ANSI_NULLS ON
 GO
@@ -8,7 +8,7 @@ SET QUOTED_IDENTIFIER ON
 GO
 
 
--- Associoados
+-- Associados
 IF EXISTS (SELECT 1 FROM INFORMATION_SCHEMA.REFERENTIAL_CONSTRAINTS
            WHERE CONSTRAINT_NAME = 'FK_Associado_Empresa_Associado')
 BEGIN
@@ -25,7 +25,7 @@ END
 GO
 
 CREATE TABLE Associado (
-	Id_Associado INT IDENTITY(1,1) PRIMARY KEY,
+	Id INT IDENTITY(1,1) PRIMARY KEY,
 	Nome VARCHAR(200) NOT NULL,
 	Cpf VARCHAR(11) NOT NULL UNIQUE,
 	Data_Nascimento Date NULL
@@ -53,7 +53,7 @@ END
 GO
 
 CREATE TABLE Empresa (
-	Id_Empresa INT IDENTITY(1,1) PRIMARY KEY,
+	Id INT IDENTITY(1,1) PRIMARY KEY,
 	Nome VARCHAR(200) NOT NULL,
 	Cnpj VARCHAR(14) NOT NULL UNIQUE
 );
@@ -75,8 +75,8 @@ CREATE TABLE Associado_Empresa (
     Id_Associado INT NOT NULL,
     Id_Empresa INT NOT NULL,
     PRIMARY KEY (Id_Associado, Id_Empresa),
-    CONSTRAINT FK_Associado_Empresa_Associado FOREIGN KEY (Id_Associado) REFERENCES Associado (Id_Associado),
-    CONSTRAINT FK_Associado_Empresa_Empresa FOREIGN KEY (Id_Empresa) REFERENCES Empresa (Id_Empresa)
+    CONSTRAINT FK_Associado_Empresa_Associado FOREIGN KEY (Id_Associado) REFERENCES Associado (Id) on Delete Cascade,
+    CONSTRAINT FK_Associado_Empresa_Empresa FOREIGN KEY (Id_Empresa) REFERENCES Empresa (Id)  on Delete Cascade
 );
 GO
 
