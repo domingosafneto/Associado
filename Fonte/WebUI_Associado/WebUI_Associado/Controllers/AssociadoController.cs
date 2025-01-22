@@ -1,20 +1,26 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WebUI_Associado.Services;
+using Newtonsoft.Json;
+using WebUI_Associado.Models;
 
 namespace WebUI_Associado.Controllers
 {
     public class AssociadoController : Controller
     {
-        private readonly AssociadoService _associadoService;
+        private readonly HttpClient _httpClient;
 
-        public AssociadoController(AssociadoService associadoService)
+        public AssociadoController(HttpClient httpClient)
         {
-            _associadoService = associadoService;
+            _httpClient = httpClient;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Associados()
         {
-            var associados = await _associadoService.GetAllAssociadosAsync();
+            var response = await _httpClient.GetAsync("https://localhost:7148/api/Associado");
+            response.EnsureSuccessStatusCode();
+
+            var content = await response.Content.ReadAsStringAsync();
+            var associados = JsonConvert.DeserializeObject<List<AssociadoModel>>(content);
+
             return View(associados);
         }
     }

@@ -1,0 +1,42 @@
+﻿@model List<WebUI_Associado.Models.AssociadoModel>
+
+@{
+    ViewData["Title"] = "Lista de Associados";
+}
+
+<h1>Lista de Associados</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>CPF</th>
+            <th>Data de Nascimento</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var associado in Model)
+            {
+                <tr>
+                    <td>@associado.Id</td>
+                    <td>@associado.Nome</td>
+                    <td>@associado.Cpf</td>
+                    <td>@associado.Data_Nascimento?.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center">Nenhum associado encontrado.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-controller="Home" asp-action="Index" style="text-decoration: none; color: white; background-color: gray; padding: 10px 15px; border-radius: 5px;">Voltar</a>
+</div>

@@ -59,5 +59,30 @@ namespace WebApi_Associado.Services
             await _context.SaveChangesAsync();
             return true;
         }
+
+        // Filtrar por Nome
+        public async Task<List<Associado>> FilterByNomeAsync(string nome)
+        {
+            return await _context.Associados
+                                 .Where(a => EF.Functions.Like(a.Nome, $"%{nome}%"))
+                                 .ToListAsync();
+        }
+
+        // Filtrar por CPF
+        public async Task<List<Associado>> FilterByCpfAsync(string cpf)
+        {
+            return await _context.Associados
+                                 .Where(a => a.Cpf == cpf)
+                                 .ToListAsync();
+        }
+
+        // Filtrar por Data de Nascimento
+        public async Task<List<Associado>> FilterByDataNascimentoAsync(DateTime? dataNascimento)
+        {
+            return await _context.Associados
+                                 .Where(a => a.Data_Nascimento == dataNascimento)
+                                 .ToListAsync();
+        }
+
     }
 }

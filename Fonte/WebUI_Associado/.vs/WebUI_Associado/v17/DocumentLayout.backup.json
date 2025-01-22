@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\models\\empresamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\models\\empresamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\models\\associadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\models\\associadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\views\\associado\\associados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\views\\associado\\associados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +31,8 @@
       "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\controllers\\associadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\views\\associado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\views\\associado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\services\\associadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\services\\associadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\models\\associadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|solutionrelative:webui_associado\\models\\associadomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACDF0B81-C656-4B3C-8268-9A13BA2E1643}|WebUI_Associado\\WebUI_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webui_associado\\webui_associado\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,84 +51,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Program.cs",
-              "RelativeDocumentMoniker": "WebUI_Associado\\Program.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Program.cs",
-              "RelativeToolTip": "WebUI_Associado\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T14:24:25.83Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebUI_Associado\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebUI_Associado\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T19:51:51.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Associado\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebUI_Associado\\Views\\Associado\\Index.cshtml",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Associado\\Index.cshtml",
-              "RelativeToolTip": "WebUI_Associado\\Views\\Associado\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-22T14:01:15.226Z",
+              "Title": "EmpresaModel.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Models\\EmpresaModel.cs",
+              "RelativeDocumentMoniker": "WebUI_Associado\\Models\\EmpresaModel.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Models\\EmpresaModel.cs",
+              "RelativeToolTip": "WebUI_Associado\\Models\\EmpresaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:46:12.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Program.cs",
+              "RelativeDocumentMoniker": "WebUI_Associado\\Program.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Program.cs",
+              "RelativeToolTip": "WebUI_Associado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T18:53:25.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Associados.cshtml",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Associado\\Associados.cshtml",
+              "RelativeDocumentMoniker": "WebUI_Associado\\Views\\Associado\\Associados.cshtml",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Associado\\Associados.cshtml",
+              "RelativeToolTip": "WebUI_Associado\\Views\\Associado\\Associados.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T18:50:39.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AssociadoController.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Controllers\\AssociadoController.cs",
               "RelativeDocumentMoniker": "WebUI_Associado\\Controllers\\AssociadoController.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Controllers\\AssociadoController.cs",
               "RelativeToolTip": "WebUI_Associado\\Controllers\\AssociadoController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T13:32:29.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AssociadoService.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Services\\AssociadoService.cs",
-              "RelativeDocumentMoniker": "WebUI_Associado\\Services\\AssociadoService.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Services\\AssociadoService.cs",
-              "RelativeToolTip": "WebUI_Associado\\Services\\AssociadoService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T13:21:09.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AssociadoModel.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Models\\AssociadoModel.cs",
               "RelativeDocumentMoniker": "WebUI_Associado\\Models\\AssociadoModel.cs",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Models\\AssociadoModel.cs",
               "RelativeToolTip": "WebUI_Associado\\Models\\AssociadoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T16:46:05.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebUI_Associado\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebUI_Associado\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-21T15:32:52.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebUI_Associado\\Controllers\\HomeController.cs",
@@ -132,12 +149,11 @@
               "RelativeToolTip": "WebUI_Associado\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:35:02.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:35:02.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebUI_Associado\\WebUI_Associado\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebUI_Associado\\Views\\Home\\Privacy.cshtml",
@@ -145,8 +161,7 @@
               "RelativeToolTip": "WebUI_Associado\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-21T15:34:29.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T15:34:29.447Z"
             }
           ]
         }

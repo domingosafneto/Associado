@@ -78,5 +78,27 @@ namespace WebApi_Associado.Controllers
 
             return NoContent();
         }
+
+        [HttpGet("filter-by-nome")]
+        public async Task<IActionResult> FilterByNome(string nome)
+        {
+            var result = await _associadoService.FilterByNomeAsync(nome);
+            return Ok(result);
+        }
+
+        [HttpGet("filter-by-cpf")]
+        public async Task<IActionResult> FilterByCpf(string cpf)
+        {
+            var result = await _associadoService.FilterByCpfAsync(cpf);
+            return Ok(result);
+        }
+
+        [HttpGet("filter-by-dt-nascimento")]
+        public async Task<IActionResult> FilterByDataNascimento(DateTime dataNascimento)
+        {
+            var result = await _associadoService.FilterByDataNascimentoAsync(dataNascimento);
+            return Ok(result);
+        }
+
     }
 }
