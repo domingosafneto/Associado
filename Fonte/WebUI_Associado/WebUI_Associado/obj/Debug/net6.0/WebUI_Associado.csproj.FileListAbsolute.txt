@@ -7,6 +7,8 @@ C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\bin\
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\bin\Debug\net6.0\WebUI_Associado.runtimeconfig.json
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\bin\Debug\net6.0\WebUI_Associado.dll
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\bin\Debug\net6.0\WebUI_Associado.pdb
+C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_Associado.csproj.AssemblyReference.cache
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_Associado.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_Associado.AssemblyInfoInputs.cache
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_Associado.AssemblyInfo.cs
@@ -28,6 +30,7 @@ C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebUI_Associado.props
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_As.808E3D29.Up2Date
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_Associado.dll
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\refint\WebUI_Associado.dll
 C:\Users\domin\source\repos\Associado\Fonte\WebUI_Associado\WebUI_Associado\obj\Debug\net6.0\WebUI_Associado.pdb

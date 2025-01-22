@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\models\\associado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\models\\associado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\data\\webapi_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|c:\\users\\domin\\source\\repos\\associado\\fonte\\webapi_associado\\webapi_associado\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D5B403B-FA3E-40C2-9971-A76422749B8E}|WebApi_Associado\\WebApi_Associado.csproj|solutionrelative:webapi_associado\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +58,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssociadoEmpresaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
+              "RelativeToolTip": "WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:48:56.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Associado_EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
+              "RelativeToolTip": "WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:43:34.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Associado_Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "RelativeToolTip": "WebApi_Associado\\Models\\Associado_Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:33:46.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssociadoController.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\AssociadoController.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Controllers\\AssociadoController.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\AssociadoController.cs",
+              "RelativeToolTip": "WebApi_Associado\\Controllers\\AssociadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:53:43.318Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi_Associado\\Program.cs",
+              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Program.cs",
+              "RelativeToolTip": "WebApi_Associado\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:52:34.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Associado.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado.cs",
               "RelativeDocumentMoniker": "WebApi_Associado\\Models\\Associado.cs",
@@ -75,72 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssociadoEmpresaRequest.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
-              "RelativeDocumentMoniker": "WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
-              "RelativeToolTip": "WebApi_Associado\\DTOs\\AssociadoEmpresaRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:48:56.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Associado_EmpresaController.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
-              "RelativeDocumentMoniker": "WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
-              "RelativeToolTip": "WebApi_Associado\\Controllers\\Associado_EmpresaController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAswDcAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T14:43:34.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Associado_Empresa.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado_Empresa.cs",
-              "RelativeDocumentMoniker": "WebApi_Associado\\Models\\Associado_Empresa.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Models\\Associado_Empresa.cs",
-              "RelativeToolTip": "WebApi_Associado\\Models\\Associado_Empresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:33:46.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AssociadoController.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\AssociadoController.cs",
-              "RelativeDocumentMoniker": "WebApi_Associado\\Controllers\\AssociadoController.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Controllers\\AssociadoController.cs",
-              "RelativeToolTip": "WebApi_Associado\\Controllers\\AssociadoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:53:43.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi_Associado\\Program.cs",
-              "ToolTip": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Program.cs",
-              "RelativeToolTip": "WebApi_Associado\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:52:34.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AssociadoService.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Services\\AssociadoService.cs",
               "RelativeDocumentMoniker": "WebApi_Associado\\Services\\AssociadoService.cs",
@@ -148,12 +144,11 @@
               "RelativeToolTip": "WebApi_Associado\\Services\\AssociadoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:47:37.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T12:47:37.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "WebApi_DbContext.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Data\\WebApi_DbContext.cs",
               "RelativeDocumentMoniker": "WebApi_Associado\\Data\\WebApi_DbContext.cs",
@@ -161,12 +156,11 @@
               "RelativeToolTip": "WebApi_Associado\\Data\\WebApi_DbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAIA7wCEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T03:03:18.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T03:03:18.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Associado_EmpresaService.cs",
               "DocumentMoniker": "C:\\Users\\domin\\source\\repos\\Associado\\Fonte\\WebApi_Associado\\WebApi_Associado\\Services\\Associado_EmpresaService.cs",
               "RelativeDocumentMoniker": "WebApi_Associado\\Services\\Associado_EmpresaService.cs",
@@ -174,8 +168,7 @@
               "RelativeToolTip": "WebApi_Associado\\Services\\Associado_EmpresaService.cs",
               "ViewState": "AgIAABcAAAAAAAAAAADwvyYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:37:07.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:37:07.09Z"
             },
             {
               "$type": "Document",
@@ -187,8 +180,7 @@
               "RelativeToolTip": "WebApi_Associado\\Services\\EmpresaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:25:32.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:25:32.991Z"
             },
             {
               "$type": "Document",
@@ -200,8 +192,7 @@
               "RelativeToolTip": "WebApi_Associado\\Controllers\\EmpresaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:29:57.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:29:57.467Z"
             },
             {
               "$type": "Document",
@@ -213,8 +204,7 @@
               "RelativeToolTip": "WebApi_Associado\\WebApi_Associado.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T02:41:02.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T02:41:02.643Z"
             }
           ]
         }

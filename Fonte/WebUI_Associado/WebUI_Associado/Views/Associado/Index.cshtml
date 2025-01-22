@@ -1,0 +1,27 @@
+﻿@model IEnumerable<WebUI_Associado.Models.AssociadoModel>
+
+@{
+    ViewData["Title"] = "Lista de Associados";
+}
+
+<h2>Lista de Associados</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>CPF</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var associado in Model)
+        {
+            <tr>
+                <td>@associado.Id</td>
+                <td>@associado.Nome</td>
+                <td>@associado.Cpf</td>
+            </tr>
+        }
+    </tbody>
+</table>
